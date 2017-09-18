@@ -1,0 +1,10 @@
+/Users/BorisGrunwald/Desktop/mvcproject/bin/Debug/netcoreapp2.0/mvcproject.deps.json
+/Users/BorisGrunwald/Desktop/mvcproject/bin/Debug/netcoreapp2.0/mvcproject.runtimeconfig.json
+/Users/BorisGrunwald/Desktop/mvcproject/bin/Debug/netcoreapp2.0/mvcproject.runtimeconfig.dev.json
+/Users/BorisGrunwald/Desktop/mvcproject/bin/Debug/netcoreapp2.0/mvcproject.dll
+/Users/BorisGrunwald/Desktop/mvcproject/bin/Debug/netcoreapp2.0/mvcproject.pdb
+/Users/BorisGrunwald/Desktop/mvcproject/obj/Debug/netcoreapp2.0/mvcproject.csproj.CoreCompileInputs.cache
+/Users/BorisGrunwald/Desktop/mvcproject/obj/Debug/netcoreapp2.0/mvcproject.AssemblyInfoInputs.cache
+/Users/BorisGrunwald/Desktop/mvcproject/obj/Debug/netcoreapp2.0/mvcproject.AssemblyInfo.cs
+/Users/BorisGrunwald/Desktop/mvcproject/obj/Debug/netcoreapp2.0/mvcproject.dll
+/Users/BorisGrunwald/Desktop/mvcproject/obj/Debug/netcoreapp2.0/mvcproject.pdb
